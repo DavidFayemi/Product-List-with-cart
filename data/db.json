@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": {
+        "thumbnail": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983090/Product_list_project/image-waffle-thumbnail_xtrolk.jpg",
+        "mobile": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983088/Product_list_project/image-waffle-mobile_fhifn6.jpg",
+        "tablet": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983089/Product_list_project/image-waffle-tablet_fzg2se.jpg",
+        "desktop": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983086/Product_list_project/image-waffle-desktop_miw5qb.jpg"
+      },
+      "name": "Waffle with Berries",
+      "category": "Waffle",
+      "price": 6.5
+    },
+    {
+      "id": 2,
+      "image": {
+        "thumbnail": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983067/Product_list_project/image-creme-brulee-thumbnail_br9m5p.jpg",
+        "mobile": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983066/Product_list_project/image-creme-brulee-mobile_znrmj0.jpg",
+        "tablet": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983066/Product_list_project/image-creme-brulee-tablet_vvmvfc.jpg",
+        "desktop": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983065/Product_list_project/image-creme-brulee-desktop_fjnzpt.jpg"
+      },
+      "name": "Vanilla Bean Crème Brûlée",
+      "category": "Crème Brûlée",
+      "price": 7.0
+    },
+    {
+      "id": 3,
+      "image": {
+        "thumbnail": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983073/Product_list_project/image-macaron-thumbnail_fkn59b.jpg",
+        "mobile": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983070/Product_list_project/image-macaron-mobile_wptkva.jpg",
+        "tablet": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983071/Product_list_project/image-macaron-tablet_pbbdlq.jpg",
+        "desktop": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983069/Product_list_project/image-macaron-desktop_ayq1gw.jpg"
+      },
+      "name": "Macaron Mix of Five",
+      "category": "Macaron",
+      "price": 8.0
+    },
+    {
+      "id": 4,
+      "image": {
+        "thumbnail": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983085/Product_list_project/image-tiramisu-thumbnail_qttodp.jpg",
+        "mobile": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983083/Product_list_project/image-tiramisu-mobile_oevdr6.jpg",
+        "tablet": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983084/Product_list_project/image-tiramisu-tablet_zm24ea.jpg",
+        "desktop": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983082/Product_list_project/image-tiramisu-desktop_bgtw1p.jpg"
+      },
+      "name": "Classic Tiramisu",
+      "category": "Tiramisu",
+      "price": 5.5
+    },
+    {
+      "id": 5,
+      "image": {
+        "thumbnail": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983057/Product_list_project/image-baklava-thumbnail_m8mcm7.jpg",
+        "mobile": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983057/Product_list_project/image-baklava-mobile_odz2lg.jpg",
+        "tablet": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983057/Product_list_project/image-baklava-tablet_wbowbw.jpg",
+        "desktop": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983057/Product_list_project/image-baklava-desktop_vdjavs.jpg"
+      },
+      "name": "Pistachio Baklava",
+      "category": "Baklava",
+      "price": 4.0
+    },
+    {
+      "id": 6,
+      "image": {
+        "thumbnail": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983077/Product_list_project/image-meringue-thumbnail_bnnn8n.jpg",
+        "mobile": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983074/Product_list_project/image-meringue-mobile_d6yule.jpg",
+        "tablet": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983076/Product_list_project/image-meringue-tablet_fqcprz.jpg",
+        "desktop": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983073/Product_list_project/image-meringue-desktop_cowzjh.jpg"
+      },
+      "name": "Lemon Meringue Pie",
+      "category": "Pie",
+      "price": 5.0
+    },
+    {
+      "id": 7,
+      "image": {
+        "thumbnail": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983064/Product_list_project/image-cake-thumbnail_hghheo.jpg",
+        "mobile": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983062/Product_list_project/image-cake-mobile_ygvpv3.jpg",
+        "tablet": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983062/Product_list_project/image-cake-tablet_wketgf.jpg",
+        "desktop": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983061/Product_list_project/image-cake-desktop_o78tub.jpg"
+      },
+      "name": "Red Velvet Cake",
+      "category": "Cake",
+      "price": 4.5
+    },
+    {
+      "id": 8,
+      "image": {
+        "thumbnail": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983060/Product_list_project/image-brownie-thumbnail_s2onwm.jpg",
+        "mobile": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983058/Product_list_project/image-brownie-mobile_j5uegx.jpg",
+        "tablet": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983059/Product_list_project/image-brownie-tablet_ndiyv4.jpg",
+        "desktop": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983057/Product_list_project/image-brownie-desktop_ohbin1.jpg"
+      },
+      "name": "Salted Caramel Brownie",
+      "category": "Brownie",
+      "price": 4.5
+    },
+    {
+      "id": 9,
+      "image": {
+        "thumbnail": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983081/Product_list_project/image-panna-cotta-thumbnail_cinudk.jpg",
+        "mobile": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983078/Product_list_project/image-panna-cotta-mobile_jbiwef.jpg",
+        "tablet": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983080/Product_list_project/image-panna-cotta-tablet_fg3syc.jpg",
+        "desktop": "https://res.cloudinary.com/dp7gibwkc/image/upload/v1721983078/Product_list_project/image-panna-cotta-desktop_yi9436.jpg"
+      },
+      "name": "Vanilla Panna Cotta",
+      "category": "Panna Cotta",
+      "price": 6.5
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Regular";
+  src: local("RedHatText-Regular"),
+    url("./assets/fonts/static/RedHatText-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Bold";
+  src: local("RedHatText-Bold"),
+    url("./assets/fonts/static/RedHatText-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "SemiBold";
+  src: local("RedHatText-SemiBold"),
+    url("./assets/fonts/static/RedHatText-SemiBold.ttf") format("truetype");
+}
